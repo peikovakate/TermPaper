@@ -1,0 +1,6 @@
+D:\univer\TRSPO\term_paper\termPaper\termPaper\bin\Debug\termPaper.exe.config
+D:\univer\TRSPO\term_paper\termPaper\termPaper\bin\Debug\termPaper.exe
+D:\univer\TRSPO\term_paper\termPaper\termPaper\bin\Debug\termPaper.pdb
+D:\univer\TRSPO\term_paper\termPaper\termPaper\obj\Debug\termPaper.csproj.CoreCompileInputs.cache
+D:\univer\TRSPO\term_paper\termPaper\termPaper\obj\Debug\termPaper.exe
+D:\univer\TRSPO\term_paper\termPaper\termPaper\obj\Debug\termPaper.pdb

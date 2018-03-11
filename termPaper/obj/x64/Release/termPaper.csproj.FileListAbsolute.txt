@@ -1,0 +1,7 @@
+D:\univer\TRSPO\term_paper\termPaper\termPaper\bin\x64\Release\termPaper.exe.config
+D:\univer\TRSPO\term_paper\termPaper\termPaper\bin\x64\Release\termPaper.exe
+D:\univer\TRSPO\term_paper\termPaper\termPaper\bin\x64\Release\termPaper.pdb
+D:\univer\TRSPO\term_paper\termPaper\termPaper\obj\x64\Release\termPaper.csproj.CoreCompileInputs.cache
+D:\univer\TRSPO\term_paper\termPaper\termPaper\obj\x64\Release\termPaper.exe
+D:\univer\TRSPO\term_paper\termPaper\termPaper\obj\x64\Release\termPaper.pdb
+D:\univer\TRSPO\term_paper\termPaper\termPaper\obj\x64\Release\termPaper.csprojResolveAssemblyReference.cache
